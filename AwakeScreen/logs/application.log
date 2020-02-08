@@ -1,0 +1,192 @@
+03-Jan-2020 12:43:40 12:43:40 INFO  labs.diawan.StarterClasses.KeyPressTask 39: Task started.
+03-Jan-2020 12:43:40 12:43:40 INFO  labs.diawan.StarterClasses.KeyPressTask 40: Max Ieration count=5
+03-Jan-2020 12:43:40 12:43:40 INFO  labs.diawan.StarterClasses.KeyPressTask 56: Count: 1
+03-Jan-2020 12:43:45 12:43:45 INFO  labs.diawan.StarterClasses.KeyPressTask 56: Count: 2
+03-Jan-2020 12:43:50 12:43:50 INFO  labs.diawan.StarterClasses.KeyPressTask 56: Count: 3
+03-Jan-2020 12:43:55 12:43:55 INFO  labs.diawan.StarterClasses.KeyPressTask 56: Count: 4
+03-Jan-2020 12:44:00 12:44:00 INFO  labs.diawan.StarterClasses.KeyPressTask 56: Count: 5
+03-Jan-2020 12:44:05 12:44:05 INFO  labs.diawan.StarterClasses.KeyPressTask 70: Task finished due to repeatation count: 5 excceded.
+03-Jan-2020 12:45:47 12:45:47 INFO  labs.diawan.StarterClasses.KeyPressTask 39: Task started.
+03-Jan-2020 12:45:47 12:45:47 INFO  labs.diawan.StarterClasses.KeyPressTask 40: Max Ieration count=5
+03-Jan-2020 12:45:47 12:45:47 DEBUG labs.diawan.Action.KeyPress 29: Key Pressed: 145
+03-Jan-2020 12:45:47 12:45:47 DEBUG labs.diawan.Action.KeyPress 35: Key Released: 145
+03-Jan-2020 12:45:47 12:45:47 DEBUG labs.diawan.StarterClasses.KeyPressTask 55: key event at 03/01/2020 12:45:47
+03-Jan-2020 12:45:47 12:45:47 INFO  labs.diawan.StarterClasses.KeyPressTask 56: Count: 1
+03-Jan-2020 12:45:52 12:45:52 DEBUG labs.diawan.Action.KeyPress 29: Key Pressed: 145
+03-Jan-2020 12:45:52 12:45:52 DEBUG labs.diawan.Action.KeyPress 35: Key Released: 145
+03-Jan-2020 12:45:52 12:45:52 DEBUG labs.diawan.StarterClasses.KeyPressTask 55: key event at 03/01/2020 12:45:52
+03-Jan-2020 12:45:52 12:45:52 INFO  labs.diawan.StarterClasses.KeyPressTask 56: Count: 2
+03-Jan-2020 12:45:57 12:45:57 DEBUG labs.diawan.Action.KeyPress 29: Key Pressed: 145
+03-Jan-2020 12:45:57 12:45:57 DEBUG labs.diawan.Action.KeyPress 35: Key Released: 145
+03-Jan-2020 12:45:57 12:45:57 DEBUG labs.diawan.StarterClasses.KeyPressTask 55: key event at 03/01/2020 12:45:57
+03-Jan-2020 12:45:57 12:45:57 INFO  labs.diawan.StarterClasses.KeyPressTask 56: Count: 3
+03-Jan-2020 12:46:02 12:46:02 DEBUG labs.diawan.Action.KeyPress 29: Key Pressed: 145
+03-Jan-2020 12:46:02 12:46:02 DEBUG labs.diawan.Action.KeyPress 35: Key Released: 145
+03-Jan-2020 12:46:02 12:46:02 DEBUG labs.diawan.StarterClasses.KeyPressTask 55: key event at 03/01/2020 12:46:02
+03-Jan-2020 12:46:02 12:46:02 INFO  labs.diawan.StarterClasses.KeyPressTask 56: Count: 4
+03-Jan-2020 12:46:07 12:46:07 DEBUG labs.diawan.Action.KeyPress 29: Key Pressed: 145
+03-Jan-2020 12:46:07 12:46:07 DEBUG labs.diawan.Action.KeyPress 35: Key Released: 145
+03-Jan-2020 12:46:07 12:46:07 DEBUG labs.diawan.StarterClasses.KeyPressTask 55: key event at 03/01/2020 12:46:07
+03-Jan-2020 12:46:07 12:46:07 INFO  labs.diawan.StarterClasses.KeyPressTask 56: Count: 5
+03-Jan-2020 12:46:12 12:46:12 INFO  labs.diawan.StarterClasses.KeyPressTask 70: Task finished due to repeatation count: 5 excceded.
+[INFO ] 03-Jan-2020 12:46:51 [INFO ] labs.diawan.StarterClasses.KeyPressTask-39: Task started.
+[INFO ] 03-Jan-2020 12:46:51 [INFO ] labs.diawan.StarterClasses.KeyPressTask-40: Max Ieration count=5
+[DEBUG] 03-Jan-2020 12:46:51 [DEBUG] labs.diawan.Action.KeyPress-29: Key Pressed: 145
+[DEBUG] 03-Jan-2020 12:46:51 [DEBUG] labs.diawan.Action.KeyPress-35: Key Released: 145
+[DEBUG] 03-Jan-2020 12:46:51 [DEBUG] labs.diawan.StarterClasses.KeyPressTask-55: key event at 03/01/2020 12:46:51
+[INFO ] 03-Jan-2020 12:46:51 [INFO ] labs.diawan.StarterClasses.KeyPressTask-56: Count: 1
+[DEBUG] 03-Jan-2020 12:46:56 [DEBUG] labs.diawan.Action.KeyPress-29: Key Pressed: 145
+[DEBUG] 03-Jan-2020 12:46:56 [DEBUG] labs.diawan.Action.KeyPress-35: Key Released: 145
+[DEBUG] 03-Jan-2020 12:46:56 [DEBUG] labs.diawan.StarterClasses.KeyPressTask-55: key event at 03/01/2020 12:46:56
+[INFO ] 03-Jan-2020 12:46:56 [INFO ] labs.diawan.StarterClasses.KeyPressTask-56: Count: 2
+[DEBUG] 03-Jan-2020 12:47:01 [DEBUG] labs.diawan.Action.KeyPress-29: Key Pressed: 145
+[DEBUG] 03-Jan-2020 12:47:01 [DEBUG] labs.diawan.Action.KeyPress-35: Key Released: 145
+[DEBUG] 03-Jan-2020 12:47:01 [DEBUG] labs.diawan.StarterClasses.KeyPressTask-55: key event at 03/01/2020 12:47:01
+[INFO ] 03-Jan-2020 12:47:01 [INFO ] labs.diawan.StarterClasses.KeyPressTask-56: Count: 3
+[DEBUG] 03-Jan-2020 12:47:06 [DEBUG] labs.diawan.Action.KeyPress-29: Key Pressed: 145
+[DEBUG] 03-Jan-2020 12:47:06 [DEBUG] labs.diawan.Action.KeyPress-35: Key Released: 145
+[DEBUG] 03-Jan-2020 12:47:06 [DEBUG] labs.diawan.StarterClasses.KeyPressTask-55: key event at 03/01/2020 12:47:06
+[INFO ] 03-Jan-2020 12:47:06 [INFO ] labs.diawan.StarterClasses.KeyPressTask-56: Count: 4
+[DEBUG] 03-Jan-2020 12:47:11 [DEBUG] labs.diawan.Action.KeyPress-29: Key Pressed: 145
+[DEBUG] 03-Jan-2020 12:47:11 [DEBUG] labs.diawan.Action.KeyPress-35: Key Released: 145
+[DEBUG] 03-Jan-2020 12:47:11 [DEBUG] labs.diawan.StarterClasses.KeyPressTask-55: key event at 03/01/2020 12:47:11
+[INFO ] 03-Jan-2020 12:47:11 [INFO ] labs.diawan.StarterClasses.KeyPressTask-56: Count: 5
+[INFO ] 03-Jan-2020 12:47:16 [INFO ] labs.diawan.StarterClasses.KeyPressTask-70: Task finished due to repeatation count: 5 excceded.
+[INFO ] 03-Jan-2020 12:47:35 labs.diawan.StarterClasses.KeyPressTask:39: "Task started.
+"[INFO ] 03-Jan-2020 12:47:35 labs.diawan.StarterClasses.KeyPressTask:40: "Max Ieration count=5
+"[DEBUG] 03-Jan-2020 12:47:35 labs.diawan.Action.KeyPress:29: "Key Pressed: 145
+"[DEBUG] 03-Jan-2020 12:47:35 labs.diawan.Action.KeyPress:35: "Key Released: 145
+"[DEBUG] 03-Jan-2020 12:47:35 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:47:35
+"[INFO ] 03-Jan-2020 12:47:35 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 1
+"[DEBUG] 03-Jan-2020 12:47:40 labs.diawan.Action.KeyPress:29: "Key Pressed: 145
+"[DEBUG] 03-Jan-2020 12:47:40 labs.diawan.Action.KeyPress:35: "Key Released: 145
+"[DEBUG] 03-Jan-2020 12:47:40 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:47:40
+"[INFO ] 03-Jan-2020 12:47:40 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 2
+"[DEBUG] 03-Jan-2020 12:47:45 labs.diawan.Action.KeyPress:29: "Key Pressed: 145
+"[DEBUG] 03-Jan-2020 12:47:45 labs.diawan.Action.KeyPress:35: "Key Released: 145
+"[DEBUG] 03-Jan-2020 12:47:45 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:47:45
+"[INFO ] 03-Jan-2020 12:47:45 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 3
+"[DEBUG] 03-Jan-2020 12:47:50 labs.diawan.Action.KeyPress:29: "Key Pressed: 145
+"[DEBUG] 03-Jan-2020 12:47:50 labs.diawan.Action.KeyPress:35: "Key Released: 145
+"[DEBUG] 03-Jan-2020 12:47:50 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:47:50
+"[INFO ] 03-Jan-2020 12:47:50 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 4
+"[DEBUG] 03-Jan-2020 12:47:55 labs.diawan.Action.KeyPress:29: "Key Pressed: 145
+"[DEBUG] 03-Jan-2020 12:47:55 labs.diawan.Action.KeyPress:35: "Key Released: 145
+"[DEBUG] 03-Jan-2020 12:47:55 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:47:55
+"[INFO ] 03-Jan-2020 12:47:55 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 5
+"[INFO ] 03-Jan-2020 12:48:00 labs.diawan.StarterClasses.KeyPressTask:70: "Task finished due to repeatation count: 5 excceded.
+"[INFO ] 03-Jan-2020 12:48:01 labs.diawan.StarterClasses.KeyPressTask:39: "Task started."
+[INFO ] 03-Jan-2020 12:48:01 labs.diawan.StarterClasses.KeyPressTask:40: "Max Ieration count=5"
+[DEBUG] 03-Jan-2020 12:48:01 labs.diawan.Action.KeyPress:29: "Key Pressed: 145"
+[DEBUG] 03-Jan-2020 12:48:01 labs.diawan.Action.KeyPress:35: "Key Released: 145"
+[DEBUG] 03-Jan-2020 12:48:01 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:48:01"
+[INFO ] 03-Jan-2020 12:48:01 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 1"
+[DEBUG] 03-Jan-2020 12:48:06 labs.diawan.Action.KeyPress:29: "Key Pressed: 145"
+[DEBUG] 03-Jan-2020 12:48:06 labs.diawan.Action.KeyPress:35: "Key Released: 145"
+[DEBUG] 03-Jan-2020 12:48:06 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:48:06"
+[INFO ] 03-Jan-2020 12:48:06 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 2"
+[INFO ] 03-Jan-2020 12:48:10 labs.diawan.StarterClasses.KeyPressTask:39: "Task started."
+[INFO ] 03-Jan-2020 12:48:10 labs.diawan.StarterClasses.KeyPressTask:40: "Max Ieration count=5"
+[DEBUG] 03-Jan-2020 12:48:10 labs.diawan.Action.KeyPress:29: "Key Pressed: 145"
+[DEBUG] 03-Jan-2020 12:48:10 labs.diawan.Action.KeyPress:35: "Key Released: 145"
+[DEBUG] 03-Jan-2020 12:48:10 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:48:10"
+[INFO ] 03-Jan-2020 12:48:10 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 1"
+[DEBUG] 03-Jan-2020 12:48:11 labs.diawan.Action.KeyPress:29: "Key Pressed: 145"
+[DEBUG] 03-Jan-2020 12:48:11 labs.diawan.Action.KeyPress:35: "Key Released: 145"
+[DEBUG] 03-Jan-2020 12:48:11 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:48:11"
+[INFO ] 03-Jan-2020 12:48:11 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 3"
+[DEBUG] 03-Jan-2020 12:48:15 labs.diawan.Action.KeyPress:29: "Key Pressed: 145"
+[DEBUG] 03-Jan-2020 12:48:15 labs.diawan.Action.KeyPress:35: "Key Released: 145"
+[DEBUG] 03-Jan-2020 12:48:15 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:48:15"
+[INFO ] 03-Jan-2020 12:48:15 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 2"
+[DEBUG] 03-Jan-2020 12:48:16 labs.diawan.Action.KeyPress:29: "Key Pressed: 145"
+[DEBUG] 03-Jan-2020 12:48:16 labs.diawan.Action.KeyPress:35: "Key Released: 145"
+[DEBUG] 03-Jan-2020 12:48:16 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:48:16"
+[INFO ] 03-Jan-2020 12:48:16 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 4"
+[DEBUG] 03-Jan-2020 12:48:20 labs.diawan.Action.KeyPress:29: "Key Pressed: 145"
+[DEBUG] 03-Jan-2020 12:48:20 labs.diawan.Action.KeyPress:35: "Key Released: 145"
+[DEBUG] 03-Jan-2020 12:48:20 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:48:20"
+[INFO ] 03-Jan-2020 12:48:20 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 3"
+[DEBUG] 03-Jan-2020 12:48:21 labs.diawan.Action.KeyPress:29: "Key Pressed: 145"
+[DEBUG] 03-Jan-2020 12:48:21 labs.diawan.Action.KeyPress:35: "Key Released: 145"
+[DEBUG] 03-Jan-2020 12:48:21 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:48:21"
+[INFO ] 03-Jan-2020 12:48:21 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 5"
+[DEBUG] 03-Jan-2020 12:48:25 labs.diawan.Action.KeyPress:29: "Key Pressed: 145"
+[DEBUG] 03-Jan-2020 12:48:25 labs.diawan.Action.KeyPress:35: "Key Released: 145"
+[DEBUG] 03-Jan-2020 12:48:25 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:48:25"
+[INFO ] 03-Jan-2020 12:48:25 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 4"
+[INFO ] 03-Jan-2020 12:48:26 labs.diawan.StarterClasses.KeyPressTask:70: "Task finished due to repeatation count: 5 excceded."
+[DEBUG] 03-Jan-2020 12:48:30 labs.diawan.Action.KeyPress:29: "Key Pressed: 145"
+[DEBUG] 03-Jan-2020 12:48:30 labs.diawan.Action.KeyPress:35: "Key Released: 145"
+[DEBUG] 03-Jan-2020 12:48:30 labs.diawan.StarterClasses.KeyPressTask:55: "key event at 03/01/2020 12:48:30"
+[INFO ] 03-Jan-2020 12:48:30 labs.diawan.StarterClasses.KeyPressTask:56: "Count: 5"
+[INFO ] 03-Jan-2020 12:48:35 labs.diawan.StarterClasses.KeyPressTask:70: "Task finished due to repeatation count: 5 excceded."
+[INFO ] 03-Jan-2020 12:48:50 labs.diawan.StarterClasses.KeyPressTask:39: <Task started.>
+[INFO ] 03-Jan-2020 12:48:50 labs.diawan.StarterClasses.KeyPressTask:40: <Max Ieration count=5>
+[DEBUG] 03-Jan-2020 12:48:50 labs.diawan.Action.KeyPress:29: <Key Pressed: 145>
+[DEBUG] 03-Jan-2020 12:48:50 labs.diawan.Action.KeyPress:35: <Key Released: 145>
+[DEBUG] 03-Jan-2020 12:48:50 labs.diawan.StarterClasses.KeyPressTask:55: <key event at 03/01/2020 12:48:50>
+[INFO ] 03-Jan-2020 12:48:50 labs.diawan.StarterClasses.KeyPressTask:56: <Count: 1>
+[DEBUG] 03-Jan-2020 12:48:55 labs.diawan.Action.KeyPress:29: <Key Pressed: 145>
+[DEBUG] 03-Jan-2020 12:48:55 labs.diawan.Action.KeyPress:35: <Key Released: 145>
+[DEBUG] 03-Jan-2020 12:48:55 labs.diawan.StarterClasses.KeyPressTask:55: <key event at 03/01/2020 12:48:55>
+[INFO ] 03-Jan-2020 12:48:55 labs.diawan.StarterClasses.KeyPressTask:56: <Count: 2>
+[DEBUG] 03-Jan-2020 12:49:00 labs.diawan.Action.KeyPress:29: <Key Pressed: 145>
+[DEBUG] 03-Jan-2020 12:49:00 labs.diawan.Action.KeyPress:35: <Key Released: 145>
+[DEBUG] 03-Jan-2020 12:49:00 labs.diawan.StarterClasses.KeyPressTask:55: <key event at 03/01/2020 12:49:00>
+[INFO ] 03-Jan-2020 12:49:00 labs.diawan.StarterClasses.KeyPressTask:56: <Count: 3>
+[DEBUG] 03-Jan-2020 12:49:05 labs.diawan.Action.KeyPress:29: <Key Pressed: 145>
+[DEBUG] 03-Jan-2020 12:49:05 labs.diawan.Action.KeyPress:35: <Key Released: 145>
+[DEBUG] 03-Jan-2020 12:49:05 labs.diawan.StarterClasses.KeyPressTask:55: <key event at 03/01/2020 12:49:05>
+[INFO ] 03-Jan-2020 12:49:05 labs.diawan.StarterClasses.KeyPressTask:56: <Count: 4>
+[DEBUG] 03-Jan-2020 12:49:10 labs.diawan.Action.KeyPress:29: <Key Pressed: 145>
+[DEBUG] 03-Jan-2020 12:49:10 labs.diawan.Action.KeyPress:35: <Key Released: 145>
+[DEBUG] 03-Jan-2020 12:49:10 labs.diawan.StarterClasses.KeyPressTask:55: <key event at 03/01/2020 12:49:10>
+[INFO ] 03-Jan-2020 12:49:10 labs.diawan.StarterClasses.KeyPressTask:56: <Count: 5>
+[INFO ] 03-Jan-2020 12:49:13 labs.diawan.StarterClasses.KeyPressTask:39: [Task started.]
+[INFO ] 03-Jan-2020 12:49:13 labs.diawan.StarterClasses.KeyPressTask:40: [Max Ieration count=5]
+[DEBUG] 03-Jan-2020 12:49:13 labs.diawan.Action.KeyPress:29: [Key Pressed: 145]
+[DEBUG] 03-Jan-2020 12:49:13 labs.diawan.Action.KeyPress:35: [Key Released: 145]
+[DEBUG] 03-Jan-2020 12:49:13 labs.diawan.StarterClasses.KeyPressTask:55: [key event at 03/01/2020 12:49:13]
+[INFO ] 03-Jan-2020 12:49:13 labs.diawan.StarterClasses.KeyPressTask:56: [Count: 1]
+[INFO ] 03-Jan-2020 12:49:15 labs.diawan.StarterClasses.KeyPressTask:70: <Task finished due to repeatation count: 5 excceded.>
+[DEBUG] 03-Jan-2020 12:49:18 labs.diawan.Action.KeyPress:29: [Key Pressed: 145]
+[DEBUG] 03-Jan-2020 12:49:18 labs.diawan.Action.KeyPress:35: [Key Released: 145]
+[DEBUG] 03-Jan-2020 12:49:18 labs.diawan.StarterClasses.KeyPressTask:55: [key event at 03/01/2020 12:49:18]
+[INFO ] 03-Jan-2020 12:49:18 labs.diawan.StarterClasses.KeyPressTask:56: [Count: 2]
+[DEBUG] 03-Jan-2020 12:49:23 labs.diawan.Action.KeyPress:29: [Key Pressed: 145]
+[DEBUG] 03-Jan-2020 12:49:23 labs.diawan.Action.KeyPress:35: [Key Released: 145]
+[DEBUG] 03-Jan-2020 12:49:23 labs.diawan.StarterClasses.KeyPressTask:55: [key event at 03/01/2020 12:49:23]
+[INFO ] 03-Jan-2020 12:49:23 labs.diawan.StarterClasses.KeyPressTask:56: [Count: 3]
+[DEBUG] 03-Jan-2020 12:49:28 labs.diawan.Action.KeyPress:29: [Key Pressed: 145]
+[DEBUG] 03-Jan-2020 12:49:28 labs.diawan.Action.KeyPress:35: [Key Released: 145]
+[DEBUG] 03-Jan-2020 12:49:28 labs.diawan.StarterClasses.KeyPressTask:55: [key event at 03/01/2020 12:49:28]
+[INFO ] 03-Jan-2020 12:49:28 labs.diawan.StarterClasses.KeyPressTask:56: [Count: 4]
+[DEBUG] 03-Jan-2020 12:49:33 labs.diawan.Action.KeyPress:29: [Key Pressed: 145]
+[DEBUG] 03-Jan-2020 12:49:33 labs.diawan.Action.KeyPress:35: [Key Released: 145]
+[DEBUG] 03-Jan-2020 12:49:33 labs.diawan.StarterClasses.KeyPressTask:55: [key event at 03/01/2020 12:49:33]
+[INFO ] 03-Jan-2020 12:49:33 labs.diawan.StarterClasses.KeyPressTask:56: [Count: 5]
+[INFO ] 03-Jan-2020 12:49:38 labs.diawan.StarterClasses.KeyPressTask:70: [Task finished due to repeatation count: 5 excceded.]
+[INFO ] 03-Jan-2020 12:49:55 <labs.diawan.StarterClasses.KeyPressTask:39>: [Task started.]
+[INFO ] 03-Jan-2020 12:49:55 <labs.diawan.StarterClasses.KeyPressTask:40>: [Max Ieration count=5]
+[DEBUG] 03-Jan-2020 12:49:55 <labs.diawan.Action.KeyPress:29>: [Key Pressed: 145]
+[DEBUG] 03-Jan-2020 12:49:55 <labs.diawan.Action.KeyPress:35>: [Key Released: 145]
+[DEBUG] 03-Jan-2020 12:49:55 <labs.diawan.StarterClasses.KeyPressTask:55>: [key event at 03/01/2020 12:49:55]
+[INFO ] 03-Jan-2020 12:49:55 <labs.diawan.StarterClasses.KeyPressTask:56>: [Count: 1]
+[DEBUG] 03-Jan-2020 12:50:00 <labs.diawan.Action.KeyPress:29>: [Key Pressed: 145]
+[DEBUG] 03-Jan-2020 12:50:00 <labs.diawan.Action.KeyPress:35>: [Key Released: 145]
+[DEBUG] 03-Jan-2020 12:50:00 <labs.diawan.StarterClasses.KeyPressTask:55>: [key event at 03/01/2020 12:50:00]
+[INFO ] 03-Jan-2020 12:50:00 <labs.diawan.StarterClasses.KeyPressTask:56>: [Count: 2]
+[DEBUG] 03-Jan-2020 12:50:05 <labs.diawan.Action.KeyPress:29>: [Key Pressed: 145]
+[DEBUG] 03-Jan-2020 12:50:05 <labs.diawan.Action.KeyPress:35>: [Key Released: 145]
+[DEBUG] 03-Jan-2020 12:50:05 <labs.diawan.StarterClasses.KeyPressTask:55>: [key event at 03/01/2020 12:50:05]
+[INFO ] 03-Jan-2020 12:50:05 <labs.diawan.StarterClasses.KeyPressTask:56>: [Count: 3]
+[DEBUG] 03-Jan-2020 12:50:10 <labs.diawan.Action.KeyPress:29>: [Key Pressed: 145]
+[DEBUG] 03-Jan-2020 12:50:10 <labs.diawan.Action.KeyPress:35>: [Key Released: 145]
+[DEBUG] 03-Jan-2020 12:50:10 <labs.diawan.StarterClasses.KeyPressTask:55>: [key event at 03/01/2020 12:50:10]
+[INFO ] 03-Jan-2020 12:50:10 <labs.diawan.StarterClasses.KeyPressTask:56>: [Count: 4]
+[DEBUG] 03-Jan-2020 12:50:15 <labs.diawan.Action.KeyPress:29>: [Key Pressed: 145]
+[DEBUG] 03-Jan-2020 12:50:15 <labs.diawan.Action.KeyPress:35>: [Key Released: 145]
+[DEBUG] 03-Jan-2020 12:50:15 <labs.diawan.StarterClasses.KeyPressTask:55>: [key event at 03/01/2020 12:50:15]
+[INFO ] 03-Jan-2020 12:50:15 <labs.diawan.StarterClasses.KeyPressTask:56>: [Count: 5]
+[INFO ] 03-Jan-2020 12:50:20 <labs.diawan.StarterClasses.KeyPressTask:70>: [Task finished due to repeatation count: 5 excceded.]

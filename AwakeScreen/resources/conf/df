@@ -1,0 +1,33 @@
+name=PropertiesConfig
+property.log_dir = logs
+appenders = console, rolling
+
+appender.console.type = Console
+appender.console.name = STDOUT
+appender.console.layout.type = PatternLayout
+#appender.console.layout.pattern = [%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} : %msg%n
+appender.console.layout.pattern = [%-5p] %d{dd-MMM-yyyy HH:mm:ss} <%c{10}:%L> [%m]%n
+
+appender.rolling.type = RollingFile
+appender.rolling.name = ROLL_FILE
+appender.rolling.fileName = ${log_dir}/application.log
+#appender.file.layout.pattern=[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} : %msg%n
+appender.rolling.filePattern = ${log_dir}/application.%d{dd-MMM-yyyy_HH_mm_ss}.log.gz
+appender.rolling.layout.type = PatternLayout
+appender.rolling.layout.pattern = [%-5p] %d{dd-MMM-yyyy HH:mm:ss} <%c{10}:%L> [%m]%n
+appender.rolling.policies.type = Policies
+appender.rolling.policies.size.type = SizeBasedTriggeringPolicy
+appender.rolling.policies.size.size=1MB
+appender.rolling.strategy.type = DefaultRolloverStrategy
+appender.rolling.strategy.max = 5
+
+loggers=file
+
+logger.file.name=labs.diawan
+logger.file.level = DEBUG
+logger.file.appenderRefs = rollingfile
+logger.file.appenderRef.rollingfile.ref = ROLL_FILE
+
+rootLogger.level = DEBUG
+rootLogger.appenderRefs = stdout
+rootLogger.appenderRef.stdout.ref = STDOUT
